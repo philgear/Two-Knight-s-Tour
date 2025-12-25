@@ -1,0 +1,5 @@
+{
+  "name": "Two Knight's Tour",
+  "description": "Interactive chessboard to create, visualize, and analyze Two Knight's Tour patterns with AI-driven artistic interpretation.",
+  "requestFramePermissions": []
+}
